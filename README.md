@@ -6,7 +6,7 @@
 ### 1. 简介 📃
 本仓库是原仓库 [pafd-automated](https://github.com/FDUCSLG/pafd-automated) 的扩展版，添加了验证码识别模块，且无需第三方的账号，识别率目前仍然是100%;
 
-使用 Github Action 实现 CI/CD，即每日自动化填报.
+使用 Github Action 可以实现 CI/CD，即每日自动化填报.
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gvtydb7os0j30pg0drwf7.jpg)
 
